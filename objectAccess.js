@@ -4,4 +4,5 @@ var person = {
 	city: 'Bordeaux'
 };
 
-console.log(person, age[0]);
+console.log(person);
+console.log(person['age']);
